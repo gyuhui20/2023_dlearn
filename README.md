@@ -1,4 +1,4 @@
-# 2023_dlearn
+# RNN을 활용한 온실가스별 SST에 미치는 영향 분석
 show the relativity between weather variances
 
 사용할 딥러닝 모델 : 우선 5 layer DNN(후에 RNN 변경 가능)
